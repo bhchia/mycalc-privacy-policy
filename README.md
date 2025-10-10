@@ -1,25 +1,20 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <title>MyCalc Privacy Policy</title>
     <style>
         /* Optional basic styling for readability */
         body { font-family: Arial, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
-        
-        /* *** CODE ADDED TO HIDE THE H1 HEADING ***
-        This rule makes the <h1> element invisible on the page.
-        */
-        h1 { 
-            display: none; 
-        }
-
-        h2, h3 { color: #333; }
+        h1, h2, h3 { color: #333; }
         table { width: 100%; border-collapse: collapse; margin: 20px 0; }
         th, td { border: 1px solid #ddd; padding: 10px; text-align: left; }
         th { background-color: #f2f2f2; }
     </style>
 </head>
 <body>
-    <h1>MyCalc Privacy Policy</h1> <p><strong>Effective Date:</strong> October 16, 2025</p>
+    <h1>MyCalc Privacy Policy</h1>
+
+    <p><strong>Effective Date:</strong> October 16, 2025</p>
 
     <p>This Privacy Policy governs the manner in which <strong>BitwigBlazer</strong> ("we," "us," or "our") collects, uses, maintains, and discloses information collected from users ("User" or "you") of the <strong>MyCalc: All-in-One Calculator</strong> mobile application ("the Application").</p>
 
